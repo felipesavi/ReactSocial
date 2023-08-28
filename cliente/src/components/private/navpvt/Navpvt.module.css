@@ -1,0 +1,74 @@
+.header{
+    background: linear-gradient(to right, #650bb9,  #089fc5);
+    width: auto;
+    height: 2rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header h2 {
+    color: #ffff;
+    margin-left: 2rem;
+    font-size: 2.2rem;
+    margin-right: 2rem;
+}
+
+.header a{
+    color: #ffff;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 1.6rem;
+}
+
+.Contnav{
+    width: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.Contend{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2rem;
+}
+.txt {
+    margin-left: 1rem;
+    color: #ffff;
+    font-size: 1.3rem;
+}
+.imgnav{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.salir{
+    display: flex;
+    align-items: center;
+}
+.salir img{
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-left: 0.2rem;
+    
+}
+.salir span {
+    color: #650bb9;
+    margin-left: 0.2rem;
+}
+.ajustes{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+.ajustes span{
+    color: #650bb9;
+    margin-left: 0.1rem;
+}
+
+.ajustes img{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 1.5rem;
+}

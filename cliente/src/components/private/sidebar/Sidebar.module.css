@@ -1,0 +1,75 @@
+.Cont{
+    width: 100%;
+    height: 5rem;
+}
+
+.ContAvatar{
+    position: relative;
+    width: 30rem;
+    height: 15rem;
+    background-color: #f7f8f0 ;
+    box-shadow: 5px 6px 5px #cacabac2;
+    border: 1px solid #a7a7a4c2;
+    border-radius: 0.5rem;
+    left: 65rem;
+    top: 2rem;
+}
+.Contitems{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+.Contitems img{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+}
+.txtName{
+    width: 13rem;
+    height: 4rem;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    left: -2rem;
+}
+.txtName a{
+    position: absolute;
+    font-size: 1.7rem;
+
+}
+.txtName p{
+    position: absolute;
+    font-size: 1.2rem;
+    color: #616060;
+    top: 1rem;
+}
+.ContFollo{
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    border-top:1px solid #d1cfcf ;
+}
+.ContFllItm{
+    margin: 1rem;
+    padding:0 1.3rem;
+    border-right: 2px solid #d1cfcf;
+    text-align: center;
+}
+.following__link{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.following__title{
+    display: block;
+    font-weight: bold;
+    color: #555;
+}
+.following__number{
+    font-weight: bold;
+    color:  #008000;
+}

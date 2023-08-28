@@ -1,0 +1,40 @@
+.Cont{
+    width: 60%;
+    height: 35rem;
+    background-color: #F7F8F0;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 5px 6px 5px #cacabac2;
+    border: 1px solid #a7a7a4c2;
+    margin:1rem 0 0 2rem ;
+    
+}
+.Cont h1{
+    color: #5919cfc2;
+    font-size: 1.8rem;
+}
+.Cont label {
+    font-size: 1.2rem;
+}
+
+.ContLab{
+    width: 22rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 1rem ;
+}
+.Btn{
+    width: 5.8rem;
+    height: 2rem;
+    background-color: #5919cfc2;
+    color: #ffff;
+    border-radius: 0.3rem;
+    margin-top: 4rem;
+    margin-left: 12rem;
+}
+
+.contImg img{
+    width: 6rem;
+    height: 6rem;
+}

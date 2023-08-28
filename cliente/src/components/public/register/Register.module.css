@@ -1,0 +1,70 @@
+.Cont{
+    background-color: #f7f8f0;
+    width: 90%;
+    height: 30rem;
+    padding: 1.5rem;
+    box-shadow: 10px 5px 5px #cacabac2;
+    border: 1px solid #a7a7a4c2;
+    border-radius: 0.5rem;
+    margin: 2rem 0 0 3rem;
+}
+.Cont h1{
+    font-size: 2.5rem;
+    margin-left: 5rem;
+    color: #430ea5c2;
+}
+.ContLab{
+    width: 30rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 1rem ;
+}
+.ContLab label{
+     font-size: 1.3rem;
+     width: 12rem;
+     
+}
+.ContLab input{
+    font-size: 1.2rem;
+    border-radius: 0.3rem;
+    
+}
+.Btn{
+    width: 5.8rem;
+    height: 2rem;
+    background-color: #5919cfc2;
+    color: #ffff;
+    border-radius: 0.3rem;
+    margin-top: 4rem;
+    margin-left: 12rem;
+}
+.Form{
+    margin: 3rem 0 0 6rem;
+}
+
+.alt{
+    position: absolute;
+    z-index: 6;
+    width: 20rem;
+    left: 12.5rem;
+    top: 9rem;
+    border-radius: 0.3rem;
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 0.4rem;
+
+}
+
+.altSvd{
+    background-color: #5cb85c;
+    border: 1px solid #0c8e0c;
+    color: white;
+}
+
+.altErr{
+   background-color: #d92d19;
+   border: 1px solid #8a0202;
+   color: white;
+}
+
